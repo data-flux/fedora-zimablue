@@ -17,4 +17,4 @@ dnf5 install -y \
 ### Install brew
 
 groupadd brew
-/ctx/build/install_brew.sh
+/ctx/build_files/install_brew.sh
